@@ -1,7 +1,10 @@
 ---
-title: NetlifyBook
+title: Jura
+date: 2019-02-05T23:50:18.053Z
 ---
-# Summary
+# Indledning
 
 * [Introduction](README.md)
+
+Her er en spændende bog om jura :O)
 
