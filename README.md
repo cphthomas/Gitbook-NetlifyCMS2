@@ -1,7 +1,7 @@
 ---
 title: README
 ---
-# Gitbook-NetlifyCMS
+# Jura på dansk
 
 > This is a book written in Gitbook and hosted with Netlify.
 
