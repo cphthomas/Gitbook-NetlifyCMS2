@@ -1,10 +1,10 @@
 ---
 title: README
+date: 2019-02-06T23:51:43.885Z
 ---
 # Jura på dansk
 
-> This is a book written in Gitbook and hosted with Netlify.
-
+> Dette er skrevet i editor
 ### Quick Start
 
 Let's get started with Gitbook-NetlifyCMS in three steps.
