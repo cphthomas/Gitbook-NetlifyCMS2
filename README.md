@@ -41,7 +41,9 @@ Man kan få beregnet deskriptorerne i et utal af programmer heriblandt Freestat 
 Har du købt adgang til premium abbonnementet, er der en del ekstra analyser, derfor bør du hente Freestat premium versionen. Seneste version af programmet kan [hentes her.](https://www.dropbox.com/s/a2jztexbxfzcli0/FREESTAT.xlsx?dl=1)
 
 Du kan finde flere resourcer bagerst i bogen under materialer ved at [klikke her.](https://s.tepedu.dk/materialer.html)
-
+Deskriptorer
+deskriptorer
+deskriptorerne
 
 
 ## Freestat basisversion
