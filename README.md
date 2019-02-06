@@ -6,12 +6,33 @@ date: 2019-02-06T23:51:43.885Z
 
 > Dette er skrevet i editor
 # Afsnit 2
-Her er vi på næste side bla bla  
-math $\alpha$ er dette inline?  
-$$\alpha$$
+Her er vi på næste side bla bla
 
 
 # Afsnit 4
+
+{% exercise %}
+Define a variable `x` equal to 10.
+
+{% initial %}
+var x =
+
+{% solution %}
+var x = 10;
+
+{% validation %}
+assert(x == 10);
+
+{% context %}
+// This is context code available everywhere
+// The user will be able to evaluate `exposedVar`
+var exposedVar = 3;
+// ... or call `exposedFunction`
+function exposedFunction {
+    return 3;
+}
+{% endexercise %}  
+
 
 ## Freestat basisversion
 Man kan få beregnet deskriptorerne i et utal af programmer heriblandt Freestat basis et gratis program, der kan hentes ved at [klikke her.](https://www.dropbox.com/s/th8q95lf864npie/FREESTATfin.xlsx?dl=1) Freestat basis, kan gennemføre de mest almindelige statistiske analyser. 
