@@ -6,7 +6,9 @@ date: 2019-02-06T23:51:43.885Z
 
 > Dette er skrevet i editor
 # Afsnit 2
-Her er vi på næste side bla bla
+Her er vi på næste side bla bla  
+math $\alpha$ er dette inline?  
+$$\alpha$$
 
 
 # Afsnit 4
