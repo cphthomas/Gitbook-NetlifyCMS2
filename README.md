@@ -46,3 +46,6 @@ You'll need to add this to the ```<head>``` of your CMS index page at /admin/ind
 > You are finished with Gitbook-NetlifyCMS
 
 > Now you can control site content in https://yoursite.netlify.com/admin/
+
+# Afsnit 2
+Her er vi på næste side bla bla
