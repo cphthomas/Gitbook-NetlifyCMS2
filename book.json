@@ -2,3 +2,6 @@
     "title": "Jura",
     "author": "Sonny"  
 }
+{
+    plugins: ["quiz"]
+}
