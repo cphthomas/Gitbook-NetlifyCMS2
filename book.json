@@ -1,5 +1,7 @@
 {
     "title": "Jura",
     "author": "Sonny"
-    plugins: ["quiz"]
+}
+    {
+    "plugins": ["quiz", "exercises"]
 }
