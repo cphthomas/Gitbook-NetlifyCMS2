@@ -1,5 +1,5 @@
 ---
-title: Jura
+title: Oversigt
 date: 2019-02-05T23:50:18.053Z
 ---
 # Indledning
