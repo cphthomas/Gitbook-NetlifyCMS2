@@ -1,4 +1,9 @@
 {
     "title": "Jura",
-    "author": "Sonny"
+    "author": "Sonny",
+    "pluginsConfig": {
+    "theme-default": {
+        "showLevel": true
+    }
+}
 }
