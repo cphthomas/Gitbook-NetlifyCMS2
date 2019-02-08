@@ -1,4 +1,4 @@
 
 ---
-title: 3 Fuldmagter og mellemmænd.md
+title: 3 Fuldmagter og mellemmænd
 ---
