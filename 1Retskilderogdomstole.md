@@ -4,4 +4,3 @@ number_sections: true
 ---
 
 # Retskilder og domstole
-## kapitel
